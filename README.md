@@ -33,4 +33,5 @@ This project implements the complete **Agent Maturity Model** by creating a real
 Click the links below to check the project locally:
 
 - **AI Employee Gateway:** [http://localhost:8000](http://localhost:8000)  
-- **API Documentation:** [http://localhost:8000/docs](http://localhost:8000/docs)
+- **API Documentation (Swagger):** [http://localhost:8000/docs](http://localhost:8000/docs)  
+- **API Documentation (Redoc):** [http://localhost:8000/redoc](http://localhost:8000/redoc)
