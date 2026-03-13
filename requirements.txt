@@ -1,0 +1,11 @@
+openai>=1.0.0
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+aiokafka
+python-dotenv
+pydantic
+requests
+email-validator
+prometheus-client
